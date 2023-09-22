@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.cont h1{
+    font-size: 30px;
+    color: white;
+}
+.cont{
+    text-align: center;
+    margin-top: 100px;
+    width: 500px;
+    margin-left: 700px;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.5);
+}
+.cont p{
+    color: white;
+}
+.b2{
+    margin-left: 5px;
+}
